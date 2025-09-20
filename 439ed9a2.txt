@@ -1,0 +1,275 @@
+Aluno: Paulo César Gato Carvalho
+matricula: 2255983
+
+                           Lista de exercícios IA – Agentes Inteligentes
+
+1. O que é um agente inteligente na IA?
+R: b) Um sistema que percebe o ambiente e age para maximizar seu desempenho
+
+
+2. O que significa a sigla PEAS em relação a agentes inteligentes?
+R: c) Performance, Ambiente, Atuadores, Sensores
+
+3. Qual dos seguintes NÃO é um exemplo de área de aplicação da IA?
+R: c) Fabricação de móveis artesanais sem máquinas
+
+4. Qual dos seguintes é um tipo de agente inteligente?
+R: a) Agente reflexivo simples
+
+5. Ambientes podem ser categorizados de diferentes formas. Qual dos seguintes é um ambiente
+dinâmico?
+R: b) Um ambiente de trânsito real com múltiplos veículos
+
+6. Em relação à ética em IA, qual dos seguintes desafios NÃO está diretamente relacionado à IA?
+R: c) Impacto ambiental do uso de energias renováveis
+
+7. Em que período ocorreu a primeira grande onda de pesquisas em Inteligência Artificial,
+culminando no desenvolvimento dos primeiros sistemas baseados em regras?
+R: a) Década de 1950
+
+8. O que levou ao "inverno da IA" nas décadas de 1970 e 1980?
+R: c) A falta de progresso significativo e cortes de financiamento
+
+9. Na IA atual, um dos avanços mais impactantes foi a ascensão do aprendizado profundo. Qual das
+seguintes tecnologias é baseada nesse conceito?
+R: b) Redes Neurais Convolucionais (CNNs)
+
+10. Sobre riscos da IA, qual das opções abaixo representa um problema real?
+R: b) A IA pode ser usada para criar deepfakes e espalhar desinformação
+
+11. Defina o conceito de agente racional em IA.
+R: é um sistema que age de forma a maximizar suas chances de alcançar um objetivo, com base nas
+informações que possui e nas ações disponíveis.
+
+12. Dê dois exemplos de como a IA é aplicada na saúde.
+R: Diagnóstico por imagem:
+    • Sistemas de IA, especialmente redes neurais profundas (CNNs), analisam exames como
+       raios-X, ressonâncias magnéticas e tomografias para detectar doenças como câncer, fraturas
+       ou lesões com alta precisão, auxiliando médicos no diagnóstico precoce.
+    • Assistentes virtuais e predição de doenças:
+    • IA é usada para monitorar pacientes, prever riscos de doenças crônicas (como diabetes ou
+      doenças cardíacas) e fornecer recomendações personalizadas, por meio de aplicativos de
+      saúde ou sistemas hospitalares inteligentes.
+
+
+13. Explique a diferença entre um ambiente totalmente observável e um parcialmente observável.
+R: Ambiente totalmente observável:
+    • O agente tem acesso a todas as informações relevantes necessárias para tomar a decisão
+      correta em cada instante.
+    • Exemplo: um jogo de xadrez, onde o agente sabe a posição de todas as peças no tabuleiro.
+       Ambiente parcialmente observável:
+    • O agente não consegue observar todo o estado do ambiente, precisando lidar com
+      incerteza e tomar decisões baseadas em informações parciais ou estimativas.
+    • Exemplo: dirigir em uma cidade com neblina, onde o agente não consegue ver todos os
+      carros e pedestres.
+
+
+14. Mencione um impacto positivo e um negativo da IA no mercado de trabalho.
+R: Positivo:
+    • Automatização de tarefas repetitivas: A IA pode assumir tarefas rotineiras e operacionais,
+       liberando os trabalhadores para funções mais estratégicas e criativas, aumentando a
+       produtividade e eficiência.
+Negativo:
+    • Substituição de empregos: Funções que envolvem tarefas repetitivas ou previsíveis podem
+      ser automatizadas, gerando desemprego ou a necessidade de requalificação de profissionais.
+15. Qual foi o papel do aprendizado de máquina na revolução da IA nos tempos atuais?
+R: desempenhou um papel central na revolução da IA moderna, porque permitiu que sistemas
+aprendessem padrões e regras a partir de dados, em vez de depender exclusivamente de regras
+explícitas programadas por humanos.
+
+16. Qual das seguintes afirmações é verdadeira sobre agentes reflexivos simples?
+R: b) Eles tomam decisões apenas com base na percepção atual do ambiente.
+
+17. Os agentes baseados em modelo diferem dos agentes reflexivos simples porque:
+R: c) Mantêm uma representação interna do estado do ambiente.
+
+18. Qual dos seguintes agentes é capaz de aprender e adaptar seu comportamento ao longo do
+tempo?
+R: d) Agente que aprende
+
+19. Qual das seguintes opções NÃO é uma característica dos agentes baseados em utilidade?
+R: b) Eles são sempre mais eficientes do que agentes baseados em objetivos.
+20. Sobre agentes inteligentes, assinale a alternativa correta:
+R: c) Agentes reflexivos simples podem ser ineficientes em ambientes dinâmicos.
+
+21. Um ambiente é considerado estocástico quando:
+R: c) Há incerteza nas transições entre estados.
+
+22. Qual dos seguintes ambientes é um exemplo de ambiente sequencial?
+R: a) Jogo de xadrez
+
+23. Qual característica diferencia um ambiente discreto de um ambiente contínuo?
+R: a) No ambiente discreto, há um número finito de ações possíveis.
+
+24. Ambientes podem ser categorizados de várias formas. Qual das alternativas apresenta um
+ambiente parcialmente observável?
+R: a) Um jogo de pôquer
+
+25. Qual dos seguintes exemplos representa um ambiente dinâmico?
+R: b) Controle de tráfego em tempo real
+
+26. Qual a principal diferença entre um agente baseado em objetivos e um agente baseado em
+utilidade?
+R: Agente baseado em objetivos:
+     • Atua para atingir metas específicas, sem se preocupar com diferentes graus de sucesso.
+    • Exemplo: um robô que precisa apenas chegar a um destino específico; qualquer caminho
+      que leve lá é suficiente.
+    • Agente baseado em utilidade:
+    • Avalia diferentes ações possíveis e os resultados esperados, atribuindo uma pontuação
+      (utilidade) a cada resultado.
+    • Busca maximizar o “grau de satisfação” ou benefício, escolhendo a ação que proporciona
+      o melhor resultado possível, mesmo que vários objetivos sejam atingidos parcialmente.
+27. Dê um exemplo de um agente que aprende na vida real.
+R: é um sistema de recomendação de streaming, como o Netflix ou o Spotify:
+     • Esses sistemas observam o comportamento do usuário (filmes assistidos, músicas
+       ouvidas, avaliações dadas).
+    • Com base nesses dados, adaptam suas recomendações para sugerir conteúdos que o
+      usuário provavelmente vai gostar no futuro.
+    • Eles aprendem continuamente com novas interações, melhorando a personalização ao
+      longo do tempo.
+28. Por que agentes reflexivos simples podem não ser eficientes em ambientes parcialmente
+observáveis?
+R: eles agem “no escuro”, o que funciona em ambientes totalmente observáveis, mas é ineficiente
+quando partes importantes do estado do mundo estão escondidas.
+29. Explique a diferença entre um ambiente determinístico e um ambiente estocástico.
+R: Ambiente determinístico:
+    • Cada ação do agente leva a um resultado previsível e certo.
+    • Não há incerteza sobre o efeito das ações.
+    • Exemplo: um jogo de xadrez tradicional; mover uma peça sempre produz o mesmo
+      resultado.
+    • Ambiente estocástico:
+    • As ações do agente podem levar a diferentes resultados, mesmo que a mesma ação seja
+      executada nas mesmas condições.
+    • Há incerteza ou probabilidade envolvida nas transições de estado.
+    • Exemplo: dirigir em uma cidade com tráfego imprevisível ou chuva; a mesma manobra pode
+      ter efeitos diferentes dependendo das condições.
+30. Cite um exemplo de ambiente contínuo e um exemplo de ambiente discreto.
+R: Ambiente contínuo:
+    • Dirigir um carro em uma estrada real.
+    • Por que? A posição, velocidade e direção do carro podem assumir infinitos valores
+      possíveis, e o agente precisa lidar com variáveis contínuas.
+    • Ambiente discreto:
+    • Jogo de xadrez.
+    • Por que? O número de posições das peças e movimentos possíveis é finito e bem definido,
+      permitindo que o agente escolha entre ações discretas.
+31. O que foi o Teste de Turing, proposto por Alan Turing em 1950?
+R: b) Um método para determinar se uma máquina pode exibir comportamento inteligente
+equivalente ao humano
+
+
+32. Um assistente virtual de voz, como a Siri ou o Google Assistant, recebe comandos de voz dos
+usuários e responde com informações úteis. Suponha que esse sistema esteja programado para
+reconhecer padrões de fala e responder de acordo com um conjunto pré definido de regras. No
+entanto, uma versão mais avançada é capaz de aprender com as interações dos usuários e melhorar
+suas respostas ao longo do tempo.
+a) Classifique o agente na versão básica do assistente virtual (sem aprendizado) e na versão
+avançada (com aprendizado).
+R: Classificação dos agentes:
+    • Versão básica (sem aprendizado):
+           • É um agente reflexivo simples ou baseado em regras, pois reage apenas aos
+             comandos atuais seguindo um conjunto pré-definido de regras.
+    • Versão avançada (com aprendizado):
+            • É um agente que aprende, pois consegue adaptar seu comportamento com base
+              em experiências anteriores, melhorando respostas ao longo do tempo.
+b) Explique as diferenças entre os dois tipos de agentes.
+R: Versão básica (agente reflexivo ou baseado em regras):
+    • Não aprende com a experiência: segue apenas um conjunto pré-definido de regras.
+    • Reage apenas à percepção atual: suas respostas dependem somente do comando recebido
+      no momento.
+    • Limitado em situações novas: não se adapta a novos padrões ou mudanças no
+      comportamento do usuário.
+    • Versão avançada (agente que aprende):
+    • Aprende com interações passadas: ajusta seu comportamento com base nas experiências
+      anteriores.
+    • Se adapta a novos padrões: consegue melhorar respostas, personalizando a interação com
+      o usuário.
+    • Mais flexível e eficiente a longo prazo: evolui com o tempo, tornando-se mais útil e
+      preciso.
+c) Quais desafios podem surgir ao implementar a versão avançada do assistente virtual?
+R: Privacidade e segurança de dados:
+    • Armazenar e processar informações dos usuários exige cuidado para proteger dados pessoais
+      e sensíveis.
+    • Sobrecarga computacional:
+    • Aprender em tempo real ou processar grandes volumes de interações requer capacidade de
+      processamento e armazenamento significativos.
+    • Aprendizado incorreto ou enviesado:
+    • Se os dados de treinamento ou interação forem enviesados, o assistente pode aprender
+      padrões incorretos ou injustos, prejudicando a qualidade das respostas.
+    • Manutenção e atualização contínua:
+    • É necessário monitorar e atualizar os modelos de aprendizado para evitar degradação do
+      desempenho ou erros acumulados ao longo do tempo.
+    • Complexidade de implementação:
+    • Criar algoritmos de aprendizado eficientes, que equilibrem rapidez, precisão e
+      personalização, é mais desafiador do que programar regras fixas.
+33. Um robô agrícola é projetado para monitorar plantações e aplicar fertilizantes conforme a
+necessidade do solo. Inicialmente, ele opera de forma programada, seguindo um mapa pré-definido.
+No entanto, uma versão mais sofisticada do robô é equipada com sensores que analisam o estado da
+plantação em tempo real e ajustam a quantidade de fertilizante de acordo com uma função de
+otimização.
+a) Qual a diferença entre o agente do robô na primeira e na segunda versão?
+R: Primeira versão (programada, mapa pré-definido):
+    • É um agente reflexivo simples ou baseado em regras.
+    • Toma decisões fixas, seguindo um roteiro predefinido, sem considerar variações no estado
+      da plantação.
+    • Não se adapta a mudanças no solo ou nas condições das plantas.
+    • Segunda versão (sensores e otimização):
+    • É um agente baseado em utilidade (ou potencialmente um agente que aprende).
+    • Avalia o estado real da plantação em tempo real e ajusta a quantidade de fertilizante para
+      otimizar o resultado.
+    • Se adapta às condições variáveis, evitando desperdício e aumentando a eficiência.
+
+
+b) Como a modelagem do ambiente influencia o comportamento do agente na segunda versão?
+R: Percepção precisa do estado do ambiente:
+    • Sensores permitem que o agente saiba variáveis importantes, como nível de nutrientes do
+      solo, umidade e saúde das plantas.
+    • Quanto mais detalhado e preciso for o modelo do ambiente, mais eficazes serão as decisões
+      do robô.
+    • Avaliação de ações com base em utilidade:
+    • O agente usa o modelo do ambiente para prever os efeitos das suas ações (quanto
+      fertilizante aplicar em cada área).
+    • Isso permite maximizar o resultado esperado (crescimento saudável das plantas) e
+      minimizar desperdícios.
+    • Adaptação a mudanças:
+    • Um bom modelo do ambiente permite que o agente reaja a variações inesperadas, como
+      chuva ou áreas de solo com deficiência, ajustando sua estratégia em tempo real.
+c) Em um ambiente parcialmente observável, como o robô poderia melhorar suas decisões?
+R: Manter um histórico de percepções:
+    • Armazenar leituras anteriores do solo e das plantas para estimar estados ocultos.
+    • Isso ajuda a inferir informações que não estão diretamente visíveis no momento.
+    • Utilizar modelos de previsão ou estimativa:
+    • Aplicar técnicas de modelagem probabilística, como filtros de Kalman ou redes
+      Bayesianas, para prever o estado atual ou futuro do ambiente com base em dados
+      parciais.
+    • Aprendizado com experiência:
+    • Ajustar estratégias com base nos resultados das ações passadas, melhorando gradualmente
+      a precisão das decisões mesmo com informações incompletas.
+    • Tomada de decisão baseada em incerteza:
+    • Escolher ações que maximizem a utilidade esperada, levando em conta a probabilidade de
+      diferentes cenários possíveis, em vez de assumir que os dados observados são completos.
+
+
+34. Um sistema de controle de tráfego urbano inteligente é implementado para coordenar semáforos
+e reduzir congestionamentos. O sistema recebe informações em tempo real de sensores nas vias e
+ajusta os tempos dos semáforos para melhorar o fluxo.
+ a) Como classificar esse ambiente em termos de observabilidade, dinâmica e determinismo?
+Justifique sua resposta.
+R: Parcialmente observável: nem todas as informações do ambiente estão disponíveis.
+    • Dinâmico: o estado do tráfego muda a todo momento.
+    • Estocástico: os mesmos ajustes podem ter efeitos diferentes dependendo do comportamento
+      humano e condições externas.
+b) Como o sistema pode lidar com a incerteza ao tomar decisões em tempo real?
+R: mesmo em um ambiente parcialmente observável e estocástico, o sistema combina previsão,
+monitoramento e aprendizado para tomar decisões mais inteligentes e adaptativas.
+c) Se um carro autônomo estiver dirigindo nesse ambiente, quais desafios ele enfrentaria ao
+interagir com outros motoristas e pedestres?
+R: o carro autônomo deve lidar com incerteza, imprevisibilidade e rápida adaptação,
+combinando percepção, planejamento e tomada de decisão em tempo real para operar com
+segurança.
+
+
+35. Uma empresa de logística implementa drones para entregar pacotes em cidades com alto tráfego
+aéreo e edifícios altos. O sistema de navegação dos drones deve evitar colisões com pássaros, outros
+drones e prédios, além de reagir rapidamente a mudanças meteorológicas, como ventos fortes.
+R: e) Agente que aprende, pois pode aprimorar sua navegação com base em experiências passadas.
+
